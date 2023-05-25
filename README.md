@@ -1,1 +1,3 @@
 # Simple-RPG
+
+This is a simple RPG I made my freshmen year at college. It is very basic. No fancy bells and whistles. This game does not use any graphics. Instead, it uses keyboard characters. I hope someone can get a kick out of this game. One last thing to note. If you want to add sound to your game, change the destination in the "sound.java" file to a sound file on your computer you would like to use. I'm pretty sure it can be any type of sound file. Don't quote me on that. If anyone would think of any ways to improve the game, please branch and make a pull request. I would consider merging if it improves the game in some beneficial way. Get creative with it :) . 
